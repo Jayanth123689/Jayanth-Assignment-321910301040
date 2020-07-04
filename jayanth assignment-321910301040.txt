@@ -1,0 +1,5 @@
+(p)=input('enter principle amount:')
+(t)=input('enter time period:')
+(r)=input('enter rate of interest:')
+SI=((int(p)* int(t)* int(r))/100)
+print('',SI)

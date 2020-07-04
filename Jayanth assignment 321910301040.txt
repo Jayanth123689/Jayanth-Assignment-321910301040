@@ -1,0 +1,3 @@
+r=float(input('enter radius of circle:'))
+c=(2*3.14*r)
+print("circumference of circle:",c)

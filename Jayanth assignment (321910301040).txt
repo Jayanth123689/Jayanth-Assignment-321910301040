@@ -1,0 +1,4 @@
+(p)=3.14
+r= input('enter the radius:')
+area=(float(p)*float(r)*float(r))
+print('',area)

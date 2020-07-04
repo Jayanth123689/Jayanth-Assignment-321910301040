@@ -1,0 +1,16 @@
+a=10
+b=99
+c= int(a) + int(b)
+print('',c)
+d= int(b) - int(a)
+print('',d)
+e= int(a)*int(b)
+print('',e)
+(f)= int(b)/int(a)
+print('',f)
+g= int(b)%int(a)
+print('',g)
+h= int(b)**int(a)
+print('',h)
+i= int(a)//int(b)
+print('',i)

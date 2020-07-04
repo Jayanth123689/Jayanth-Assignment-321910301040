@@ -1,0 +1,4 @@
+celsius=float(input("enter temp in celsius:"))
+farenheit=(celsius*1.8)+32
+print("the temp in ^F is:",farenheit)
+© 2020 GitHub, Inc.
